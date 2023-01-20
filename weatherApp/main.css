@@ -1,0 +1,27 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    background-color:rgb(254, 232, 106);   
+}
+
+.bold{
+    font-size: 40px;
+    color: darkred;
+    text-decoration: underline;
+}
+
+.center {
+    margin-top: 100px;
+    font-size: 22px;
+}
+
+.centered{
+    margin-top: 100px;
+    font-size: 34px;
+}
+
+#bold{
+    font-size:larger;
+    font-weight: bold;
+
+}
